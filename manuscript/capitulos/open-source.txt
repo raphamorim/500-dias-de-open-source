@@ -1,0 +1,58 @@
+# Open Source, o que é?
+
+Open Source é um termo que se refere ao código aberto. Isso diz respeito ao código-fonte de um software, que pode ser adaptado para diferentes fins. 
+
+O termo, bem como o seu ideal, foi desenvolvido pela OSI (Open Source Initiative) e se difere de um software livre por não respeitar as quatro liberdades definidas pela Free Software Foundation (FSF).
+
+Qualquer licença de software livre é também uma licença de código aberto (Open Source), mas o contrário nem sempre é verdade. Enquanto a FSF usa o termo "Software Livre" envolta de um discurso baseado em questões éticas, direitos e liberdade, a OSI usa o termo "Código Aberto" sob um ponto de vista puramente técnico, evitando (propositadamente) questões éticas.
+
+O rótulo "Open Source" surgiu em uma reunião em fevereiro de 1998. Tal debate juntou personalidades que se tornaram verdadeiras referências no que diz respeito ao Open Source, como Todd Anderson, Chris Peterson (Foresight Institute), Jon "Maddog" Hall e Larry Augustin (Linux International), Sam Ockman (Silicon Valley Linux User's Group) e Eric Raymond.
+
+## The Open Source Definition 
+
+A definição do Open Source foi criada pela Open Source Iniciative (OSI) a partir do texto original da Debian Free Software Guidelines (DFSG) e determina que um programa de código aberto deve garantir:
+
+**Distribuição livre**
+
+A licença não deve restringir de nenhuma maneira a venda ou distribuição do programa gratuitamente, como componente de outro programa ou não.
+
+**Código fonte**
+
+O programa deve incluir seu código fonte e deve permitir a sua distribuição também na forma compilada. Se o programa não for distribuído com seu código fonte, deve haver algum meio de se obter o mesmo seja via rede ou com custo apenas de reprodução. O código deve ser legível e inteligível por qualquer programador.
+
+**Trabalhos Derivados**
+
+A licença deve permitir modificações e trabalhos derivados, e deve permitir que eles sejam distribuídos sobre os mesmos termos da licença original.
+
+Integridade do autor do código fonte
+A licença pode restringir o código fonte de ser distribuído em uma forma modificada apenas se a licença permitir a distribuição de arquivos patch (de atualização) com o código fonte para o propósito de modificar o programa no momento de sua construção. A licença deve explicitamente permitir a distribuição do programa construído a partir do código fonte modificado. Contudo, a licença pode ainda requerer que programas derivados tenham um nome ou número de versão diferentes do programa original.
+
+**Não discriminação contra pessoas ou grupos** 
+
+A licença não pode ser discriminatória contra qualquer pessoa ou grupo de pessoas.
+
+**Não discriminação contra áreas de atuação**
+
+A licença não deve restringir qualquer pessoa de usar o programa em um ramo específico de atuação. Por exemplo, ela não deve proibir que o programa seja usado em um empresa, ou de ser usado para pesquisa genética.
+
+**Distribuição da Licença**
+
+Os direitos associados ao programa devem ser aplicáveis para todos aqueles cujo o programa é redistribuído, sem a necessidade da execução de uma licença adicional para estas partes.
+
+**Licença não específica a um produto**
+
+Os direitos associados ao programa não devem depender que o programa seja parte de uma distribuição específica de programas. Se o programa é extraído desta distribuição e usado ou distribuído dentro dos termos da licença do programa, todas as partes para quem o programa é redistribuído devem ter os mesmos direitos que aqueles que são garantidos em conjunção com a distribuição de programas original.
+
+**Licença não restrinja outros programas**
+
+A licença não pode colocar restrições em outros programas que são distribuídos juntos com o programa licenciado. Isto é, a licença não pode especificar que todos os programas distribuídos na mesma mídia de armazenamento sejam programas de código aberto.
+
+**Licença neutra em relação a tecnologia**
+
+Nenhuma cláusula da licença pode estabelecer uma tecnologia individual, estilo ou interface a ser aplicada no programa.
+
+A definição atualmente pode ser lida no site oficial em inglês, para ler basta acessar a url: ***http://opensource.org/osd-annotated***
+
+## Porque escolher o Open Source?
+
+Essa é uma boa questão.
