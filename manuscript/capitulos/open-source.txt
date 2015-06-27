@@ -57,7 +57,6 @@ A definição atualmente pode ser lida no site oficial em inglês, para ler bast
 
 Uma pergunta bastante difícil de ser respondida. Meu pensamento é bastante pessoal quanto a isso: O desenvolvimento voltado para o Open Source depende muito de pessoa para pessoa. As contribuições e ações de apoio ao código aberto podem ser reflexos tanto da história, valores ou filosofia de um desenvolvedor. 
 
-Entenda que não é errado, muito menos desmerecedor. Escolher não apoiar o código aberto. E isso vale tanto quanto vice e versa. 
+Entenda que não é errado, muito menos desmerecedor. Escolher não desenvolver o código aberto. E isso vale tanto quanto vice e versa. 
 
-
-
+Já o uso, pessoalmente considero extremamente benéfico. Tanto para quem desenvolve quanto não desenvolve código aberto.

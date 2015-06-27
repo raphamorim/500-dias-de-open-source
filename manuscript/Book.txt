@@ -1,3 +1,5 @@
 dedicatoria.txt
 introducao.txt
 capitulos/open-source.txt
+capitulos/contribuindo.txt
+capitulos/desafio.txt
