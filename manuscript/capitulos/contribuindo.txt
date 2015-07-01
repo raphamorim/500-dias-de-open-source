@@ -1,2 +1,39 @@
 # Começando a contribuir
 
+Antes de começar a contribuir, é importante entender o que é uma contribuição.
+
+
+
+## Entendendo o Projeto
+
+Entenda que todo projeto existente tem algo para ser melhorado ou acrescentado, ou mesmo os dois. Seu dever como contribuidor é encontrar esses pontos e resolver estes problemas ou pendências. De preferência, resolver sem gerar futuros problemas.
+
+Um dos melhores benefícios de usar o GitHub é que você pode criar um ***Roadmap*** para o projeto e definir pontos críticos para a próxima release pelo uso de issues ou pela criando uma documentação pelo próprio GitHub. Uma issue pode apenas ser uma questão sobre o projeto (exemplo: Como o projeto funciona? Por que usar estas ferramentas? [...]), como também pode ser algum problema encontrado, um bug ou até mesmo uma crítica.
+
+Num caso real, você leitor decide que quer contribuir em algum projeto aberto que esteja no GitHub. Começa então a procurar alguns projetos para contribuir, filtrando sempre sua busca por onde você se sente confortável com a tecnologia usada.
+
+Se você apenas der um fork no projeto, provavelmente irá ficar extremamente perdido no que vai poder ajudar. Logo para descobrir e entender o que você pode fazer para contribuir com o projeto, existem algumas opções:
+
+- Olhar as lista de issues e sair procurando algum problema ou melhoria em que você considere apto para atuar na resolução. 
+
+- Entrar em contato com os mantenedores do projeto e então pedir para explicar o objetivo, como funciona e qual o futuro do projeto. Em alguns casos até mesmo dúvidas técnicas. Normalmente é bem fácil entrar em contato e até melhor, pois você acaba sabendo de informações que muita das vezes não foram definidas nas issues ou no ***Roadmap*** (se existir uma boa documentação).
+
+Após você identificar algo em que possa ajudar e resolver. Normalmente na documentação do projeto ou no arquivo do `readme.md` ou `contributting.md` fica especificado como você vai trabalhar em cima daquela funcionalidade ou conserto que você está implementando, seja feature, hotfix ou qualquer outra coisa. Porém isso depende de projeto para projeto, e ressaltando outra vez, depedende de uma boa documentação.
+
+## Algumas dicas antes de começar a escrever código
+
+Vamos supor que o projeto tem como arquitetura o GitFlow, então você pode apenas dar um fork no projeto, criar uma branch dentro do seu remote com o prefixo da implementação seguido da funcionalidade que você vai aplicar.
+
+Exemplo: Se você vai criar um método de formatação de moedas.
+
+git checkout -b feature/currency-formatter
+
+Antes de sair escrevendo código, crie uma issue explicando a funcionalidade e associe ao seu Pull Request ou até mesmo no próprio Pull Request antes de terminar, mostre e descreva a implementação da funcionalidade que você vai desenvolver. Além de ser bem útil, vai te poupar muito tempo.
+
+Logo se os mantenedores chegarem num senso sobre seu Pull Request (dependendo do projeto pode levar horas ou até mesmo dias), provavelmente irá ter sinal verde para terminar a implementação.
+
+Mas é claro que você também pode desenvolver tudo de uma vez e depois mandar o Pull Request. Nesse caso é super normal ser solicitado alguns ajustes sobre o que foi desenvolvido.
+
+Mas isso tudo varia de contribuidor para contribuidor. Eu pessoalmente prefiro a primeira opção pois normalmente me poupa bastante tempo.
+
+

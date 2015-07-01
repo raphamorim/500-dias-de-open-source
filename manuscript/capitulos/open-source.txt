@@ -59,4 +59,4 @@ Uma pergunta bastante difícil de ser respondida. Meu pensamento é bastante pes
 
 Entenda que não é errado, muito menos desmerecedor. Escolher não desenvolver o código aberto. E isso vale tanto quanto vice e versa. 
 
-Já o uso, pessoalmente considero extremamente benéfico. Tanto para quem desenvolve quanto não desenvolve código aberto.
+Já o uso, pessoalmente considero extremamente benéfico. Tanto para quem desenvolve quanto para quem não desenvolve código aberto.

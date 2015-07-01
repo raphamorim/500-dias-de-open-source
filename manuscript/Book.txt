@@ -1,5 +1,6 @@
 dedicatoria.txt
 introducao.txt
 capitulos/open-source.txt
+capitulos/git-gitflow-github.txt
 capitulos/contribuindo.txt
 capitulos/desafio.txt

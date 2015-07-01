@@ -1,0 +1,14 @@
+# Git? GitFlow? GitHub?
+
+Não quero por meio deste livro definir o que você vai usar como ferramenta ou meio para contribuir em projetos abertos, ou até mesmo recomendar o que é melhor usar ou não. Porém esse livro é baseado nas opções mais populares. Focando no uso de Git como ferramenta de versionamento do código e o GitHub (?) como meio de contribuição.
+
+É essencial para continuar lendo este livro conhecer essas ferramentas. Recomendo dar uma boa estudada em Git, seguindo a documentação oficial (disponível nesta url: (?)) e criar uma conta no GitHub (link: http://github.com) para poder criar alguma coisa e se acostumar com (?).
+
+Existem várias ferramentas de versionamento, assim como existem várias ferramentas de social coding. Porém vamos apenas nos ater ao uso destas citadas acima.
+
+## Versionando seu código com Git
+
+## O GitFlow
+
+## Tornando seu projeto aberto com o GitHub
+
