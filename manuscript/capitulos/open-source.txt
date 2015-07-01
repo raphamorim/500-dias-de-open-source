@@ -4,7 +4,7 @@ Open Source é um termo que se refere ao código aberto. Isso diz respeito ao c�
 
 O termo, bem como o seu ideal, foi desenvolvido pela OSI (Open Source Initiative) e se difere de um software livre por não respeitar as quatro liberdades definidas pela Free Software Foundation (FSF).
 
-Qualquer licença de software livre é também uma licença de código aberto (Open Source), mas o contrário nem sempre é verdade. Enquanto a FSF usa o termo "Software Livre" envolta de um discurso baseado em questões éticas, direitos e liberdade, a OSI usa o termo "Código Aberto" sob um ponto de vista puramente técnico, evitando (propositadamente) questões éticas.
+Qualquer licença de software livre é também uma licença de código aberto (Open Source), mas o contrário nem sempre é verdade. Enquanto a FSF usa o termo "Software Livre" em volta de um discurso baseado em questões éticas, direitos e liberdade, a OSI usa o termo "Código Aberto" sob um ponto de vista puramente técnico, evitando (propositadamente) questões éticas.
 
 O rótulo "Open Source" surgiu em uma reunião em fevereiro de 1998. Tal debate juntou personalidades que se tornaram verdadeiras referências no que diz respeito ao Open Source, como Todd Anderson, Chris Peterson (Foresight Institute), Jon "Maddog" Hall e Larry Augustin (Linux International), Sam Ockman (Silicon Valley Linux User's Group) e Eric Raymond.
 
