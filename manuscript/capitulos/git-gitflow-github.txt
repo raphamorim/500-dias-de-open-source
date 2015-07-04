@@ -8,6 +8,53 @@ Existem várias ferramentas de versionamento, assim como existem várias ferrame
 
 ## Versionando seu código com Git
 
+### Sobre Controle de Versão
+O que é controle de versão, e por que você deve se importar? O controle de versão é um sistema que registra as mudanças feitas em um arquivo ou um conjunto de arquivos ao longo do tempo de forma que você possa recuperar versões específicas. 
+
+Se você é um designer gráfico ou um web designer e quer manter todas as versões de uma imagem ou layout (o que você certamente gostaria), usar um Sistema de Controle de Versão (Version Control System ou VCS) é uma decisão sábia. Ele permite reverter arquivos para um estado anterior, reverter um projeto inteiro para um estado anterior, comparar mudanças feitas ao decorrer do tempo, ver quem foi o último a modificar algo que pode estar causando problemas, quem introduziu um bug e quando, e muito mais. Usar um VCS normalmente significa que se você estragou algo ou perdeu arquivos, poderá facilmente reavê-los. Além disso, você pode controlar tudo sem maiores esforços.
+
+## Uma pincelada na história do Git
+
+O kernel (núcleo) do Linux é um projeto de software de código aberto de escopo razoavelmente grande. Durante a maior parte do período de manutenção do kernel do Linux (1991-2002), as mudanças no software eram repassadas como patches e arquivos compactados. Em 2002, o projeto do kernel do Linux começou a usar um sistema DVCS proprietário chamado BitKeeper.
+
+Em 2005, o relacionamento entre a comunidade que desenvolvia o kernel e a empresa que desenvolvia comercialmente o BitKeeper se desfez, e o status de isento-de-pagamento da ferramenta foi revogado. Isso levou a comunidade de desenvolvedores do Linux (em particular Linus Torvalds, o criador do Linux) a desenvolver sua própria ferramenta baseada nas lições que eles aprenderam ao usar o BitKeeper. Alguns dos objetivos do novo sistema eram:
+
+- Velocidade
+- Design simples
+- Suporte robusto a desenvolvimento não linear (milhares de branches paralelos)
+- Totalmente distribuído
+- Capaz de lidar eficientemente com grandes projetos como o kernel do Linux (velocidade e volume de dados)
+
+Desde sua concepção em 2005, o Git evoluiu e amadureceu a ponto de ser um sistema fácil de usar e ainda assim mantém essas qualidades iniciais. É incrivelmente rápido, bastante eficiente com grandes projetos e possui um sistema impressionante de branching para desenvolvimento não-linear.
+
+### Instalação
+
+Vamos entender como utilizar o Git. Primeiramente você deve instalá-lo. 
+
+#### Instalando no Linux
+
+Se você quiser instalar o Git no Linux via um instalador binário, você pode fazê-lo com a ferramenta de gerenciamento de pacotes (packages) disponível na sua distribuição. Caso você esteja no Fedora, você pode usar o yum:
+
+<<(code/git-linux-fedora.sh)
+
+Ou se você estiver em uma distribuição baseada no Debian, como o Ubuntu, use o apt-get:
+
+<<(code/git-linux-debian.sh)
+
+#### Instalando no Mac
+
+Existem duas formas fáceis de se instalar Git em um Mac. A mais fácil delas é usar o instalador gráfico do Git, que você pode baixar da página do SourceForge (onde pode ser acessado pelo link: http://sourceforge.net/projects/git-osx-installer/). A outra é usando o Brew (http://brew.sh/) ou Ports (https://www.macports.org/).
+
+#### Instalando no Windows
+
+Instalar o Git no Windows é muito fácil. O projeto msysgit tem um dos procedimentos mais simples de instalação. Simplesmente baixe o arquivo exe do instalador a partir da página do GitHub (link: http://msysgit.github.com) e execute-o.
+
+Após concluir a instalação, você terá tanto uma versão command line (linha de comando, incluindo um cliente SSH que será útil depois) e uma GUI padrão.
+
+### Configurando o Git
+
+Após instalar o Git em sua maquina
+
 ## O GitFlow
 
 ## Tornando seu projeto aberto com o GitHub
