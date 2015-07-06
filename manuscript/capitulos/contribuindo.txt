@@ -1,8 +1,7 @@
 # Começando a contribuir
 
 Antes de começar a contribuir, é importante entender o que é uma contribuição.
-
-
+(...)
 
 ## Entendendo o Projeto
 
@@ -26,7 +25,7 @@ Vamos supor que o projeto tem como arquitetura o GitFlow, então você pode apen
 
 Exemplo: Se você vai criar um método de formatação de moedas.
 
-git checkout -b feature/currency-formatter
+<<(code/git-checkout-currency)
 
 Antes de sair escrevendo código, crie uma issue explicando a funcionalidade e associe ao seu Pull Request ou até mesmo no próprio Pull Request antes de terminar, mostre e descreva a implementação da funcionalidade que você vai desenvolver. Além de ser bem útil, vai te poupar muito tempo.
 

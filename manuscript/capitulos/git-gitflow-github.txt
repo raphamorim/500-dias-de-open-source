@@ -6,6 +6,8 @@ Não quero por meio deste livro definir o que você vai usar como ferramenta ou 
 
 Existem várias ferramentas de versionamento, assim como existem várias ferramentas de social coding. Porém vamos apenas nos ater ao uso destas citadas acima.
 
+# Git
+
 ## Versionando seu código com Git
 
 ### Sobre Controle de Versão
@@ -55,7 +57,7 @@ Após concluir a instalação, você terá tanto uma versão command line (linha
 
 Após instalar o Git em sua maquina
 
-## O GitFlow
+# O GitFlow
 
-## Tornando seu projeto aberto com o GitHub
+# Tornando seu projeto aberto com o GitHub
 
