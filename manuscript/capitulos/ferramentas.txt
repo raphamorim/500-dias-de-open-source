@@ -1,10 +1,10 @@
-# Git? GitFlow? GitHub?
+# O que eu preciso para começar a contribuir? Git? GitFlow?
 
-Não quero por meio deste livro definir o que você vai usar como ferramenta ou meio para contribuir em projetos abertos, ou até mesmo recomendar o que é melhor usar ou não. Porém esse livro é baseado nas opções mais populares. Focando no uso de Git como ferramenta de versionamento do código e o GitHub (?) como meio de contribuição.
+Não quero neste livro definir o que você vai usar como ferramenta, melhor meio para contribuir em projetos abertos ou até mesmo recomendar o que é melhor usar ou não. Porém esse livro é baseado nas opções mais populares. Focando no uso de Git como ferramenta de versionamento do código e o GitHub com Web Hosting para social coding usando o Git.
 
-É essencial para continuar lendo este livro conhecer essas ferramentas. Recomendo dar uma boa estudada em Git, seguindo a documentação oficial (disponível nesta url: (?)) e criar uma conta no GitHub (link: http://github.com) para poder criar alguma coisa e se acostumar com (?).
+Este livro irá apresentar tais ferramentas, porém iremos nos ater apenas a apresentação. Não iremos adentrar conceitos, logo recomendo bastante dar uma boa estudada em Git, seguindo a documentação oficial (disponível no link: http://git-scm.com) e criar uma conta no GitHub (disponível no link: http://github.com) e ir fazendo o uso constantemente para se acostumar com o uso destes recursos.
 
-Existem várias ferramentas de versionamento, assim como existem várias ferramentas de social coding. Porém vamos apenas nos ater ao uso destas citadas acima.
+Existem várias ferramentas para versionamento, assim como existem várias ferramentas de Web Hosting para projetos. Entretanto vamos nos ater ao uso das mencionadas acima.
 
 # Git
 
@@ -29,35 +29,10 @@ Em 2005, o relacionamento entre a comunidade que desenvolvia o kernel e a empres
 
 Desde sua concepção em 2005, o Git evoluiu e amadureceu a ponto de ser um sistema fácil de usar e ainda assim mantém essas qualidades iniciais. É incrivelmente rápido, bastante eficiente com grandes projetos e possui um sistema impressionante de branching para desenvolvimento não-linear.
 
-### Instalação
+# GitHub
 
-Vamos entender como utilizar o Git. Primeiramente você deve instalá-lo. 
+GitHub é um Serviço de Web Hosting Compartilhado para projetos que usam o controle de versionamento Git. É escrito em Ruby on Rails. O GitHub possui planos comerciais e gratuitos para projetos de código aberto.
 
-#### Instalando no Linux
+Este site possui funcionalidades de uma rede social como feeds, followers, wiki e um gráfico que mostra como os desenvolvedores trabalham as versões de seus repositórios.
 
-Se você quiser instalar o Git no Linux via um instalador binário, você pode fazê-lo com a ferramenta de gerenciamento de pacotes (packages) disponível na sua distribuição. Caso você esteja no Fedora, você pode usar o yum:
-
-<<(code/git-linux-fedora.sh)
-
-Ou se você estiver em uma distribuição baseada no Debian, como o Ubuntu, use o apt-get:
-
-<<(code/git-linux-debian.sh)
-
-#### Instalando no Mac
-
-Existem duas formas fáceis de se instalar Git em um Mac. A mais fácil delas é usar o instalador gráfico do Git, que você pode baixar da página do SourceForge (onde pode ser acessado pelo link: http://sourceforge.net/projects/git-osx-installer/). A outra é usando o Brew (http://brew.sh/) ou Ports (https://www.macports.org/).
-
-#### Instalando no Windows
-
-Instalar o Git no Windows é muito fácil. O projeto msysgit tem um dos procedimentos mais simples de instalação. Simplesmente baixe o arquivo exe do instalador a partir da página do GitHub (link: http://msysgit.github.com) e execute-o.
-
-Após concluir a instalação, você terá tanto uma versão command line (linha de comando, incluindo um cliente SSH que será útil depois) e uma GUI padrão.
-
-### Configurando o Git
-
-Após instalar o Git em sua maquina
-
-# O GitFlow
-
-# Tornando seu projeto aberto com o GitHub
-
+Usado desde então para que desenvolvedores possam hospedar seus projetos. Além de permitir também conversar com outros desenvolvedores, fazer comentários nos projetos e ainda solicitar modificações no código alheio. Funcionando como uma espécie de "social coding". O projeto pode ser acessado de qualquer local.
