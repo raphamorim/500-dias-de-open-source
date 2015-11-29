@@ -1,7 +1,11 @@
 # Começando a contribuir
 
 Antes de começar a contribuir, é importante entender o que é uma contribuição.
-(...)
+
+Contribuições representam o Ato ou efeito de contribuir.
+Parte que toca a cada pessoa numa despesa comum. Mas esse história toda, se resumiria na palavra: cooperação. Projetos abertos se alimentam de apoio de várias pessoas que dedicam seu tempo ou de empresas, fundações ou instituções que financiem o projeto de alguma forma.
+
+Então nunca menospreze sua contribuição, por mais pequena que seja. Por mais pequena que seja uma célula (as menores unidades vivas), no interior delas existem as organelas celulare, estruturas menores ainda que trabalham juntas para mantê-las vivas. Podemos trazer este cenário para esclarecer melhor o conceito de cooperação.
 
 ## Entendendo o Projeto
 
@@ -13,7 +17,7 @@ Num caso real, você leitor decide que quer contribuir em algum projeto aberto q
 
 Se você apenas der um fork no projeto, provavelmente irá ficar extremamente perdido no que vai poder ajudar. Logo para descobrir e entender o que você pode fazer para contribuir com o projeto, existem algumas opções:
 
-- Olhar as lista de issues e sair procurando algum problema ou melhoria em que você considere apto para atuar na resolução. 
+- Olhar as lista de issues e sair procurando algum problema ou melhoria em que você considere apto para atuar na resolução.
 
 - Entrar em contato com os mantenedores do projeto e então pedir para explicar o objetivo, como funciona e qual o futuro do projeto. Em alguns casos até mesmo dúvidas técnicas. Normalmente é bem fácil entrar em contato e até melhor, pois você acaba sabendo de informações que muita das vezes não foram definidas nas issues ou no ***Roadmap*** (se existir uma boa documentação).
 
@@ -33,6 +37,4 @@ Logo se os mantenedores chegarem num senso sobre seu Pull Request (dependendo do
 
 Mas é claro que você também pode desenvolver tudo de uma vez e depois mandar o Pull Request. Nesse caso é super normal ser solicitado alguns ajustes sobre o que foi desenvolvido.
 
-Mas isso tudo varia de contribuidor para contribuidor. Eu pessoalmente prefiro a primeira opção pois normalmente me poupa bastante tempo.
-
-
+Mas isso tudo varia de contribuidor para contribuidor. Pessoalmente prefiro a primeira opção pois normalmente me poupa bastante tempo.
